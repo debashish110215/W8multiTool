@@ -1,0 +1,9 @@
+D:\Projects\W8MultiTool\View\bin\Debug\View.exe.config
+D:\Projects\W8MultiTool\View\bin\Debug\View.exe
+D:\Projects\W8MultiTool\View\bin\Debug\View.pdb
+D:\Projects\W8MultiTool\View\obj\Debug\View.Properties.Resources.resources
+D:\Projects\W8MultiTool\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\Projects\W8MultiTool\View\obj\Debug\View.exe
+D:\Projects\W8MultiTool\View\obj\Debug\View.pdb
+D:\Projects\W8MultiTool\View\obj\Debug\View.W8MultiTool_MainView.resources
+D:\Projects\W8MultiTool\View\obj\Debug\View.csprojResolveAssemblyReference.cache
